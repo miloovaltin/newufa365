@@ -1,0 +1,16 @@
+{
+"name": "newufa365",
+"theme": "new ufa365",
+"version": "2.3.10",
+"description": "new ufa365 ทางเข้าหลักเว็บพนันเว็บตรง อันดับ 1 รับเครดิตฟรี",
+"keywords": [
+"new ufa365",
+"new ufa365 เครดิตฟรี",
+"new ufa365 ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/newufa365",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
